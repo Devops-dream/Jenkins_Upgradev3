@@ -15,13 +15,13 @@ public class Greeter {
   
   //TODO: Add javadoc comment
   public String greet(String someone) {
-    return String.format("Hello, %s!", someone who cares);
+    return String.format("Hello, %s!", someone);
   }
 
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Good Evening all in this session  !!!");
+	  System.out.println("Hello from Main Method & Good morning all in this session  !!!");
   }
 	
 }
